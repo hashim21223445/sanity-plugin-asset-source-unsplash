@@ -88,7 +88,7 @@
     "sanity": "^3.37.2",
     "semantic-release": "^23.0.8",
     "styled-components": "^6.1.8",
-    "typescript": "5.4.5"
+    "typescript": "5.5.3"
   },
   "peerDependencies": {
     "react": "^18",
